@@ -1,5 +1,8 @@
 # 🔧 PyTorch GitHub Issue Body Generator
 
+> **Mayank Puvvala** — LoRA/PEFT fine-tuning + HF dataset/demo.  
+> [Live Gradio](https://huggingface.co/spaces/mayankpuvvala/pytorch_issues_deployment) · [Dataset](https://huggingface.co/datasets/mayankpuvvala/github-pytorch-issues) (470+ downloads) · [Profile](https://github.com/mayankpuvvala)
+
 Automatically generate GitHub issue bodies from issue titles using a fine-tuned T5-small model. This project streamlines the documentation process in large-scale projects like PyTorch by suggesting detailed issue descriptions.
 
 ## 🔍 Problem Statement
